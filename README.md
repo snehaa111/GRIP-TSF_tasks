@@ -17,3 +17,4 @@ So after analysis these were some areas where we can make profit:
 2-) We can increase sales in east as the profit is more their.
 3-) We should concentrate more on states like 'New York' and 'California' to make more profits.
   
+To see the implementation Notebook check this link- 
