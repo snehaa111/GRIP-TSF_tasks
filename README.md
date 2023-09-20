@@ -10,9 +10,10 @@ To see the implementation Notebook check this link - https://github.com/snehaa11
 
 
 ## Task 3 - Exploratory Data Analysis-Retail
-Here we have to perform exploratory data analysis on the dataset 'SampleSuperstore'
+Here we have to perform exploratory data analysis on the dataset 'SampleSuperstore'.
 We have to find out the weak areas where we can work as a manager to make profits.
-So after analysis these were some areas where we can make profit: 
+
+So after analysis these were some areas where we can make profit:-
 1-) We can limit sales of furniture and increase that of technology.
 2-) We can increase sales in east as the profit is more their.
 3-) We should concentrate more on states like 'New York' and 'California' to make more profits.
